@@ -1,0 +1,19 @@
+body{
+	background-image: url('bgf2.jpg');
+background-size:cover;	
+background-repeat:no repeat;
+}
+
+#a{
+	background-image: url('bg3.jpg');
+
+color:white;
+font-size:15px;
+height:900px;
+width:600px;
+align:center;
+margin-left:400px;
+font-family:verdana;
+margin-top:50px;
+
+}

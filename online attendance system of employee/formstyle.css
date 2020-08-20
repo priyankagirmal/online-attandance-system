@@ -1,0 +1,36 @@
+body{
+	background-image: url('login2img.jpg');
+background-size:cover;	
+background-repeat:no repeat;
+}
+#a{
+background-image:url("bg3.jpg");
+
+height:400px;
+width:40%;
+align:right;
+font-family:"Times New Roman";
+margin-left:80px;
+align:center;
+color:white;
+padding-top:20px;
+margin-top:100px;
+}
+#b{
+font-family:Times New Roman;
+margin:10px;
+color:white;
+
+}
+a:link {
+  color: white;
+}
+a:hover {
+  color: hotpink;
+}
+a:visited {
+  color: white;
+}
+a:link {
+  text-decoration: none;
+}
